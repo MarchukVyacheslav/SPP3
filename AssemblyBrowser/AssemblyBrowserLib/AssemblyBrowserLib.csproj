@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AssebmlyBrowser.cs" />
+    <Compile Include="AssemblyBrowser.cs" />
     <Compile Include="Container.cs" />
     <Compile Include="Format\ClassFormatter.cs" />
     <Compile Include="Format\ConstructorFormatter.cs" />

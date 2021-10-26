@@ -7,7 +7,7 @@ using static System.Reflection.BindingFlags;
 
 namespace AssemblyBrowserLib
 {
-    public class AssebmlyBrowser
+    public class AssemblyBrowser
     {
         public List<Container> GetAssemblyInfo(string filePath)
         {
